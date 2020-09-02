@@ -11,3 +11,5 @@ Next, I chose one district to zoom in on. I decide to choose Berea, and wanted t
 ![Screen Shot 2020-09-02 at 12 33 54 PM](https://user-images.githubusercontent.com/60228374/92011273-d5c9ed80-ed18-11ea-8cf5-ab9fc64129b1.png)
 
 Unfortunately, Lesotho's data only goes up to adm_1, so in the future, I will select another LMIC to do more in-depth analysis. I still wanted to attempt stretch goal 1 although there is no second adminsitrative level. Thus, my plot looks very similar to my geometric bar plot above, but includes some fun colors!
+
+![Screen Shot 2020-09-02 at 12 42 54 PM](https://user-images.githubusercontent.com/60228374/92012125-0c543800-ed1a-11ea-8398-8c2a9603fa6c.png)
