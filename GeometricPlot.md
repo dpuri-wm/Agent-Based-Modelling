@@ -8,3 +8,4 @@ In this exercise, I created a geometric bar plot of Lesotho's population, and a 
 
 Next, I chose one district to zoom in on. I decide to choose Berea, and wanted to view population across the district. I thought this would be an interesting choice since Masseru is the capital, and thus, it would be cool to see if people were located closer to the border of Berea and Masseru. My predictions were not all that correct. Population is clumped in the lower left of the plot, with some "spikes" in the upper region of the district. 
 
+![Screen Shot 2020-09-02 at 12 33 54 PM](https://user-images.githubusercontent.com/60228374/92011273-d5c9ed80-ed18-11ea-8cf5-ab9fc64129b1.png)
