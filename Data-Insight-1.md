@@ -30,4 +30,14 @@ The above image shows the comparison between self-reported craving scores assign
 
 ![Screen Shot 2020-09-17 at 11 21 44 PM](https://user-images.githubusercontent.com/60228374/93551739-9fa58400-f93c-11ea-9479-74e3f5c74143.png)
 
+![Screen Shot 2020-09-17 at 11 23 09 PM](https://user-images.githubusercontent.com/60228374/93551819-ccf23200-f93c-11ea-9ff9-abe4964c4262.png)
 
+The above plot is a 2-dimensional representation of all the images, generated using t-SNE. t-SNE is a dimensionality-reduction algorithm that can be used to explore highly dimensional data. The final model achieved accuracy (76.5%) significantly better than chance and comparable with human experts.
+
+## Discussion
+
+Ultimately, this study revealed that specific environmental features are associated with tobacco use. Oftentimes, in clinal practice, smokers are encouraged to identify situations and places from their everyday lives that trigger their craving and to avoid such things. However, this can be a difficult task, and with improvement, this model could be implemented to aid in the process. The study mentions their hope for the future, which includes applying their approach to predict smoking risk in real time. This would happen through the use of Just-in-time adaptive intervention (JITAI), where mobile devices/wearable cameras can take images and mobile devices could process the image in real-time and interact with the user through prompts or alerts. The researchers would also like to experiment with personalization to the user.
+
+## Agent Based modelling applications
+
+This study proves how helpful agent based models can be in assessing tobacco risk. Several population dynamic models have been used to simulate the dynamics of smoking and smoking-attributed deaths in a state or nation and the effects of policies on those outcomes. Ultimately, these models are of the utmost importance for policy-making decisions These models can help simulate the effect some policies would have on the population. The study described here really analyzed the interaction between humans and their environment, but it also showcases the need for models to analyze human to human interactions. For example, teenagers who see their older relatives smoke may be more at risk, and have different beliefs than others of how tobacco shapes health. Additonally, peer pressure is another component. Capturing social intereactions can be difficult. 
