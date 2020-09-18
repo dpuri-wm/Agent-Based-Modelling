@@ -7,3 +7,5 @@
 3. [Population of Lesotho](https://dpuri-wm.github.io/Agent-Based-Modelling/Homework2)
 
 4. [Geometric Bar Graph and more plots](https://dpuri-wm.github.io/Agent-Based-Modelling/GeometricPlot)
+
+## Data Insights
