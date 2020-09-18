@@ -24,3 +24,6 @@ Nested cross-validation was used to avoid bias error. This means that the partic
 
 The mean AUC (Area under curve) across all folds was .840. AUC is just a measure of how well the model performed. A perfect classifier would have an AUC of 1.0. If the classifer was random in its guesses, the AUC would be about .5. The manual validation method had interesting results, with expert A outperforming the Pittsburgh-trained classifier. In general, classifier-predicted smoking probability for the 8 standard environments was correlated with median craving reported for that image by the study participants. 
 
+![Screen Shot 2020-09-17 at 11 18 46 PM](https://user-images.githubusercontent.com/60228374/93551556-2e65d100-f93c-11ea-91ee-c56069982fb6.png)
+
+The above image shows the comparison between self-reported craving scores assigned by the smokers, and the classifer probability score of an environment as a smoking or non-smoking location. The classifer recognized "patio" and "moving van" as the images/objects most strongly to influence cigarette craving, whereas "library", "grocery store", and "photocopier" were not associated with a cigarette craving. 
