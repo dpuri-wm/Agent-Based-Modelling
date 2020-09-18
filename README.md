@@ -9,3 +9,5 @@
 4. [Geometric Bar Graph and more plots](https://dpuri-wm.github.io/Agent-Based-Modelling/GeometricPlot)
 
 ## Data Insights
+
+1. [Data Insight #1](https://dpuri-wm.github.io/Agent-Based-Modelling/Data-Insight-1.md)
