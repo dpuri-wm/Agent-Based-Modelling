@@ -27,3 +27,7 @@ The mean AUC (Area under curve) across all folds was .840. AUC is just a measure
 ![Screen Shot 2020-09-17 at 11 18 46 PM](https://user-images.githubusercontent.com/60228374/93551556-2e65d100-f93c-11ea-91ee-c56069982fb6.png)
 
 The above image shows the comparison between self-reported craving scores assigned by the smokers, and the classifer probability score of an environment as a smoking or non-smoking location. The classifer recognized "patio" and "moving van" as the images/objects most strongly to influence cigarette craving, whereas "library", "grocery store", and "photocopier" were not associated with a cigarette craving. 
+
+![Screen Shot 2020-09-17 at 11 21 44 PM](https://user-images.githubusercontent.com/60228374/93551739-9fa58400-f93c-11ea-9479-74e3f5c74143.png)
+
+
