@@ -20,6 +20,11 @@ One thing to note before we dive into how PCA works, is that you should only use
 
 The process is a bit complicated and involves comprehension of upper-level mathematics. Luckily, in many languages such as R, there are functions that will conduct PCA for you. Here's a little snippet of the code in R:
 
+![Screen Shot 2020-10-17 at 10 59 29 AM](https://user-images.githubusercontent.com/60228374/96343281-db308c80-1067-11eb-86c3-1acbf643a454.png)
+
+### Applications
+
+One really cool application I found of PCA was in making inferences of genetic ancestry differences among individuals from different populations. PCA is applied to genotype data to calculate principle components that explain the differences among these sample individuals in the genetic data. When PCAs were applied to European genetic data, it revealed that for Europeans whose all 4 grandparents originated in the same country, the first two principal components could map their country of origin quite accruately in the plane. These two principle components were computed using 200,000 SNPs. For referenced, SNPs are single nucleotide polymorphisms, or basically a single base-pai in the DNA. 
 
 
 
