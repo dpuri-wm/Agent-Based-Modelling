@@ -18,13 +18,23 @@ One thing to note before we dive into how PCA works, is that you should only use
 2. break matrix down into direction and magnitude
 3. transform original data to align with directions
 
-The process is a bit complicated and involves comprehension of upper-level mathematics. Luckily, in many languages such as R, there are functions that will conduct PCA for you. Here's a little snippet of the code in R:
+The process is a bit complicated and involves comprehension of upper-level mathematics. It involves comprehsnion of transposing the data and orthagonal vectors, etc. Luckily, in many languages such as R, there are functions that will conduct PCA for you. Here's a little snippet of the code in R:
 
 ![Screen Shot 2020-10-17 at 10 59 29 AM](https://user-images.githubusercontent.com/60228374/96343281-db308c80-1067-11eb-86c3-1acbf643a454.png)
 
 ### Applications
 
 One really cool application I found of PCA was in making inferences of genetic ancestry differences among individuals from different populations. PCA is applied to genotype data to calculate principle components that explain the differences among these sample individuals in the genetic data. When PCAs were applied to European genetic data, it revealed that for Europeans whose all 4 grandparents originated in the same country, the first two principal components could map their country of origin quite accruately in the plane. These two principle components were computed using 200,000 SNPs. For referenced, SNPs are single nucleotide polymorphisms, or basically a single base-pai in the DNA. 
+
+
+![Screen Shot 2020-10-17 at 11 04 54 AM](https://user-images.githubusercontent.com/60228374/96345784-9d803380-1068-11eb-97bc-e4723f963c98.png)
+
+This project was conducted again within Finland, to map out which geographic region sample individuals were from using PCA. In brief, PCA has lots of applications and can be utilized in various scenarios. 
+
+### Citations
+
+https://faculty.washington.edu/tathornt/SISG2015/lectures/assoc2015session05.pdf
+https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
 
 
 
