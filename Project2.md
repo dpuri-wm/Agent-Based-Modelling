@@ -5,5 +5,6 @@
 - 16,650 households were sampled, with 15,683 females surveyed, and 12,688 males
 - In 2016, Total ethiopia population was 103.6 million persons
 
-### Planar Point Pattern (PPP) of Addis Ababa
-Addis Ababa is the capital and largest city in Ethiopia. It has a population of ~ 3 million persons. 
+### Afar, Ethiopia
+
+Afar Regional State is a region in my adm_1 that I decided to zoom in on! It has a population of ~ 1.8 million persons. Below shows the population:
