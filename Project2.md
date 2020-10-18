@@ -1,5 +1,16 @@
 ## The DATA
+To obtain the following data, I submitted a request for access to the Ethiopia 2016 DHS dataset. Below is my request:
 
+I would like to improve upon the use of multinomial logistic regression models to generate a close-to-reality
+synthetic population in Ethiopia. I'm interested in using an agent-based model to learn more about human
+behavior in Ethiopia, specifically in Tigray since it's on the border of Eritrea. The data would help me to create
+a synthetic population I can utilize in my model. Specifically, the remotely sensed data would allow me to
+estimate dwelling locations , and other data would help me estimate size/gender.other features of the
+population. Additionally, I'm
+interested in studying the intersection of human behavior, interactions, infrastructure, and overall health in
+the country. Thank you.
+
+### A little about the data
 - The DHS Survey data is for Ethiopia in 2016
 - Data was collected between January 2016 and June 2016
 - 16,650 households were sampled, with 15,683 females surveyed, and 12,688 males
@@ -29,3 +40,10 @@ Originally, I had intended to work with Addis Abeba, but the population size was
 Density plot of the sampled household in Afar.
 
 ![Screen Shot 2020-10-18 at 5 27 26 PM](https://user-images.githubusercontent.com/60228374/96387117-de15a500-116d-11eb-9b32-3eaf1a0b8266.png)
+
+
+### Conclusion
+
+My final training model accuracy was 37.62%. This project was definitly chanllenging in many ways. Aside from having trouble keeping my script organized and clean and avoiding language errors (kept using some pthon syntax), I learned  a lot. One of the most important things i learned in this project was how to pivot the age, gender, and education variables. I did this through creating pivot objects from going into my af_hhs dataframe and finding the column numbers that aligned with the variable I was interested in. Next, I looked at where gender and pnmbr were and created the pns dataframe that included the pivot objects of gender, age, and education. Another skill I definitly brushed up was binding/merging dataframes, and splicing them. I became familiar with how to generate randomly sampled households, and calculating average household size. In general, I enjoyed this project.
+
+
