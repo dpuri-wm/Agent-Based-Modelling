@@ -20,4 +20,6 @@ Due to some laptop constraints and other plotting issues, I was only able to plo
 ![Screen Shot 2020-10-18 at 6 10 57 PM](https://user-images.githubusercontent.com/60228374/96387064-85460c80-116d-11eb-9a1f-474a4c3cf548.png)
 
 ### Density Plot
+Density plot of the sampled household in Afar.
 
+![Screen Shot 2020-10-18 at 5 27 26 PM](https://user-images.githubusercontent.com/60228374/96387117-de15a500-116d-11eb-9b32-3eaf1a0b8266.png)
