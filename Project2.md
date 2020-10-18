@@ -11,7 +11,13 @@ Afar Regional State is a region in my adm_1 that I decided to zoom in on! It has
 
 ![Screen Shot 2020-10-18 at 6 04 12 PM](https://user-images.githubusercontent.com/60228374/96386967-ef11e680-116c-11eb-9e67-b4e2762b96c9.png)
 
+
+
 ### Addis Abeba, Ethiopia
 
 Due to some laptop constraints and other plotting issues, I was only able to plot the households across the Addis Abeba region. Addis Abeba is the captial of Ethiopia, and below is my planar point pattern:
+
+![Screen Shot 2020-10-18 at 6 10 57 PM](https://user-images.githubusercontent.com/60228374/96387064-85460c80-116d-11eb-9a1f-474a4c3cf548.png)
+
+### Density Plot
 
