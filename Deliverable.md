@@ -19,4 +19,6 @@ D) My synthetic population, afar_synpop, definitly is a better representation of
 ![percent](https://user-images.githubusercontent.com/60228374/97117228-aad89600-16d8-11eb-9c3e-2df5de5a2919.png)
 
 
+Lastly, I used tidymodels, keras, and random forest to model my synthetic population for Afar. However, my greatest accuracy was ~ 16 %. This accuracy is definitley very low, but still better than a randomyl generated synthetic population. Furthermore, it provides evidence that a more accurate synthetic population could be achieved. 
+
 
