@@ -39,11 +39,11 @@ Originally, I had intended to work with Addis Abeba, but the population size was
 ### Density Plot
 Density plot of the sampled household in Afar.
 
-![Screen Shot 2020-10-18 at 5 27 26 PM](https://user-images.githubusercontent.com/60228374/96387117-de15a500-116d-11eb-9b32-3eaf1a0b8266.png)
+![afar1](https://user-images.githubusercontent.com/60228374/97117531-b9c04800-16da-11eb-81a5-8d16b1a5b2db.png)
 
 
 ### Conclusion
 
-My final training model accuracy was 37.62%. This project was definitly chanllenging in many ways. Aside from having trouble keeping my script organized and clean and avoiding language errors (kept using some pthon syntax), I learned  a lot. One of the most important things i learned in this project was how to pivot the age, gender, and education variables. I did this through creating pivot objects from going into my af_hhs dataframe and finding the column numbers that aligned with the variable I was interested in. Next, I looked at where gender and pnmbr were and created the pns dataframe that included the pivot objects of gender, age, and education. Another skill I definitly brushed up was binding/merging dataframes, and splicing them. I became familiar with how to generate randomly sampled households, and calculating average household size. In general, I enjoyed this project.
+My final training model accuracy ~ 16%.  This project was definitly chanllenging in many ways. Aside from having trouble keeping my script organized and clean and avoiding language errors (kept using some python syntax), I learned  a lot. One of the most important things i learned in this project was how to pivot the age, gender, and education variables. I did this through creating pivot objects from going into my af_hhs dataframe and finding the column numbers that aligned with the variable I was interested in. Next, I looked at where gender and pnmbr were and created the pns dataframe that included the pivot objects of gender, age, and education. Another skill I definitly brushed up was binding/merging dataframes, and splicing them. I became familiar with how to generate randomly sampled households, and calculating average household size. In general, I enjoyed this project.
 
 
