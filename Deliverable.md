@@ -8,6 +8,10 @@ C) I began spatially locating my households at the Adm 2 level. I chose Afar Reg
 D) My synthetic population, afar_synpop, definitly is a better representation of the demographic features of households and persons, compared to any randomly generated synthetic population. For one, I took measures to prepare the synthetic population data. I understood, for example, that when predicting gender based off age, for example, the relationship would be very heavily skewed. This is because age can take on a variety of values(4 y/o, 28 y/o, 67 y/o). Meanwhile, gender can only be one of two values (0 or 1). The resulting relationship would be very skewed, so in order to fix this, I scaled the data. I plotted heatmaps to help visualize the data after scaling, normalizing, and and percentizing. Here are the plots (first plot is before taking any measures). 
 
 
+![rawE](https://user-images.githubusercontent.com/60228374/97117222-a3b18800-16d8-11eb-8e51-51fca1d5c512.png)
+![scale](https://user-images.githubusercontent.com/60228374/97117223-a613e200-16d8-11eb-80af-f879539b124b.png)
+![normal](https://user-images.githubusercontent.com/60228374/97117224-a7dda580-16d8-11eb-811c-74748dd92be6.png)
+![percent](https://user-images.githubusercontent.com/60228374/97117228-aad89600-16d8-11eb-9c3e-2df5de5a2919.png)
 
 
 
