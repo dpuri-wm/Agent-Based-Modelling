@@ -18,5 +18,14 @@
   
   The end result is a hierarchical, tree-like diagram - called a dendogram. The below plot is an example of one:
   
+  ![1*3JL_dSj4cGguByJM1-wz3A](https://user-images.githubusercontent.com/60228374/97467123-3ee57000-191a-11eb-8477-e2f136fa18de.png)
+  
+  To calculate distance between clusters, there are a variety of approaches. These include calculating the maximum distance between clusters before merging, calculating average distance between clusters, finding the centroid of cluster 1 and cluster 2 and calculating the distance between them before merging. 
+  
+  ### Application
+  
+  There are a variety of different applications of hierarchical clustering. Oftentimes, biologists utilize the data science method to construct phylogenetic trees that reveal evolutionary information about different species. Another application includes utilizing hierarchical clustering to analyze population health and labour market regulations in lower-middle income countries. In the article, published in BMC Public Health, "Hierarchical cluster analysis of labour market regulations and population health: a taxonomy of low- and middle-income countries," 113 Lower middle income countries were clustered together accroding to their labour market taxonomy. These clusters were analyzed for their association with adult mortality, healthy life expectancy, infant mortality, nenonatal mortatlity, and more health factors. Thus, this method would rellay allow to see the correlation between labour market regulations and health factors, as countries with similar markets are clustered together and compared. Without clustering, it would be difficult to hone in on whether market regulations actually have an association with health - there may be confounding variables. However, across many countries, if a relationship is shown, then it would be more accurate. 
+  
+  The result was interesting; it was determined that labor market regulations are a social determinant of health. In the end, 6 market clusters were created. These include: residual, emerging, informal, post-communist, less-successful informal, insecure. Next, boxplots were created to see the relationship with the different health factors. I included the boxplot of the 6 market clusters with maternal mortality rate below:
   
   
