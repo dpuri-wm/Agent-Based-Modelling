@@ -18,7 +18,7 @@
   
   The end result is a hierarchical, tree-like diagram - called a dendogram. The below plot is an example of one:
   
-  ![1*3JL_dSj4cGguByJM1-wz3A](https://user-images.githubusercontent.com/60228374/97467123-3ee57000-191a-11eb-8477-e2f136fa18de.png)
+
   
   To calculate distance between clusters, there are a variety of approaches. These include calculating the maximum distance between clusters before merging, calculating average distance between clusters, finding the centroid of cluster 1 and cluster 2 and calculating the distance between them before merging. 
   
