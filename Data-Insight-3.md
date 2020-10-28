@@ -30,3 +30,7 @@
   
   ![Screen Shot 2020-10-28 at 1 37 23 PM](https://user-images.githubusercontent.com/60228374/97474885-f7afad00-1922-11eb-8363-095f0fe03687.png)
 
+
+### My project
+
+I was interested in learning more about this method as I am utilizing it in a programming project outside of class! Although it may seem basic compared to other methods we have studied in class, it has a wide range of applications and is so versatile. In another project outside of this class, I am analyzing the relationship between air quality, diabetes, and obesity within the Unites States. One question I'm interested in learnign about is whether location is a greater factor of diabetes, or air quality. Thus, I'm using hierarchical clustering to group counties within states together based on the features. It will be interesting to see whether counties within states are more closely grouped together, or not!
