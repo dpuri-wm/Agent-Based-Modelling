@@ -4,6 +4,19 @@
   
   ### Hierarchical model
   
-  There are two ways of clustering data points with the use of this model, agglomerative and divisive. Agglomerative involves single observations and merging clusters together until a stopping criterion is satisfied. A divisive method begins with a single cluster and performs a splitting until a stopping criterion is met. Divisive methods are much more popular, as we are used to seeing the divisive cluster representation much more often.
+  There are two ways of clustering data points with the use of this model, agglomerative and divisive. Agglomerative involves single observations and merging clusters together until a stopping criterion is satisfied. A divisive method begins with a single cluster and performs a splitting until a stopping criterion is met. Divisive methods are much more popular, as we are used to seeing the divisive cluster representation much more often. [Agglomerative on left, Divisive on right]
+  
+  ![1*3JL_dSj4cGguByJM1-wz3A](https://user-images.githubusercontent.com/60228374/97467123-3ee57000-191a-11eb-8477-e2f136fa18de.png)
+  
+  The main operation that is repeated in hierarchical clustering is to combine the two nearest clusters into a larger cluster. This is done through the following steps:
+  
+  1. Distance is calculated between every pair of observation points and is stored in a distance matrix
+  2. Every point is considered its own cluster
+  3. the closest pairs of points are merged based on their distance matrix, amount of clusters decreases by 1
+  4. distance is recomputed between the new cluster and all the other ones, and stored in a new distance matrix
+  5. steps 2 and 3 are repeated until there is one single cluster
+  
+  The end result is a hierarchical, tree-like diagram - called a dendogram. The below plot is an example of one:
+  
   
   
