@@ -28,4 +28,5 @@
   
   The result was interesting; it was determined that labor market regulations are a social determinant of health. In the end, 6 market clusters were created. These include: residual, emerging, informal, post-communist, less-successful informal, insecure. Next, boxplots were created to see the relationship with the different health factors. I included the boxplot of the 6 market clusters with maternal mortality rate below:
   
-  
+  ![Screen Shot 2020-10-28 at 1 37 23 PM](https://user-images.githubusercontent.com/60228374/97474885-f7afad00-1922-11eb-8363-095f0fe03687.png)
+
