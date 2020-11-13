@@ -21,3 +21,5 @@
 2. [Data Insight #2](https://dpuri-wm.github.io/Agent-Based-Modelling/Data-Insight-2)
 
 3. [Data Insight #3](https://dpuri-wm.github.io/Agent-Based-Modelling/Data-Insight-3)
+
+4. [In-class final essay](https://dpuri-wm.github.io/Agent-Based-Modelling/Insight4)
