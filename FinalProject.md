@@ -10,3 +10,7 @@ odm <- odm[ ,c(16,2:15)]
 ![Screen Shot 2020-11-19 at 1 59 22 PM](https://user-images.githubusercontent.com/60228374/99711229-88cffa80-2a6f-11eb-8871-fc9f86775c19.png)
 
 This is a snippet to reveal what my OD matrix looked like. 
+
+### Animated Migration
+
+![output](https://user-images.githubusercontent.com/60228374/99711899-58d52700-2a70-11eb-9236-48c97e181717.gif)
