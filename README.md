@@ -14,6 +14,8 @@
 
 7. [Project 2 Writeup](https://dpuri-wm.github.io/Agent-Based-Modelling/Deliverable)
 
+8. [Final Project](https://dpuri-wm.github.io/Agent-Based-Modelling/FinalProject)
+
 ## Data Insights
 
 1. [Data Insight #1](https://dpuri-wm.github.io/Agent-Based-Modelling/Data-Insight-1)
