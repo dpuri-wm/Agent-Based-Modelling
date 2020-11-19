@@ -18,3 +18,6 @@ This is a snippet to reveal what my OD matrix looked like.
 ### Tesselation of Voronoi Polygons
 
 ![Screen Shot 2020-11-19 at 12 14 06 PM](https://user-images.githubusercontent.com/60228374/99712456-152eed00-2a71-11eb-90b9-7a609f64d14f.png)
+
+### Urbanized areas within Afar
+![afar_v1](https://user-images.githubusercontent.com/60228374/99712887-a8682280-2a71-11eb-971b-cac830904d74.png)
