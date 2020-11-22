@@ -12,7 +12,7 @@ This is a snippet to reveal what my OD matrix looked like. I had 11 rows and 11 
 
 ### Animated Migration
 
-I used the OD matrix to create an animation of migration within Ethiopia. 
+I used the OD matrix to create an animation of migration within Ethiopia. Looking back, it's so croweded, I wish I produced a similar animation without the migration lines for clarity! The gravity model could be incorporated in this animation, which would be interesting as it would provide more information about the autonomous agents moving in the ABM, and additionally, to model/compare estimate flows and original flows. 
 
 ![output](https://user-images.githubusercontent.com/60228374/99711899-58d52700-2a70-11eb-9236-48c97e181717.gif)
 
