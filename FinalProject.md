@@ -1,13 +1,14 @@
 
-From the Garcia et. al paper, we learned the importance and benefits of utilizing gravity models when analyzing human migration. To begin project 3, we began by creating a gravity model for London - following a guide by Dr Ds. Essentially, we did this by calculating a distance matrix between boroughs in London, and using transport data for migration flow estimates. Utilizing the gravity model allowed us to look at flow estimates, and original flows. 
+### Gravity models
 
+From the Garcia et. al paper, we learned the importance and benefits of utilizing gravity models when analyzing human migration. To begin project 3, we began by creating a gravity model for London - following a guide by Dr Ds. Essentially, we did this by calculating a distance matrix between boroughs in London, and using transport data for migration flow estimates. Utilizing the gravity model allowed us to look at flow estimates, and original flows. 
 
 
 ### Origin-Destination (OD) Matrix 
 
 ![Screen Shot 2020-11-19 at 1 59 22 PM](https://user-images.githubusercontent.com/60228374/99711229-88cffa80-2a6f-11eb-8871-fc9f86775c19.png)
 
-This is a snippet to reveal what my OD matrix looked like. I downloaded data on internal migration flows in ethiopia, from the worldpop.data website. Next, I found the origin flows sum and destination flows sum for each adminsitrative 1 district in Ethiopia. Using these sums, I was able to create the OD matrix to have a better visualization of people migrarting between the districts. The N/A is inter-migration within districts, which wasn't calculated. 
+This is a snippet to reveal what my OD matrix looked like. I had 11 rows and 11 columns, as I had 11 administrative subdivisions within Afar. Each number is representative of one of these administrative subdivisions. I downloaded data on internal migration flows in ethiopia, from the worldpop.data website. Next, I found the origin flows sum and destination flows sum for each adminsitrative 1 district in Ethiopia. Using these sums, I was able to create the OD matrix to have a better visualization of people migrarting between the districts. The N/A is inter-migration within districts, which was removed (migration that began in the district and ended within the same district). 
 
 ### Animated Migration
 
